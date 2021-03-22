@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pollardtp
+- 👀 I use computational tools to address problems in energy storage.
+- 🌱 In my spare time, I am coding a molecular dynamics program in Julia.
